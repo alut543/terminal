@@ -1,2 +1,6 @@
 # terminal
-a small terminal i made during class
+A Small terminal I made in class with simple commands.
+
+# coming later
+
+Convo, App Store, etc...
